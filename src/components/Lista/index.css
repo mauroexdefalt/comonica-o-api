@@ -1,0 +1,21 @@
+.lista{
+    float: 1;
+    background-color: rgb(87, 92, 91);
+    top: 690px;
+    left: 506px;
+    width: 699px;
+    height: 45px;
+    margin: 10px;
+}
+
+.nome{
+    display: flex;
+    flex-direction: column;
+}
+
+.lista  th{
+    padding : 5px;
+    margin: 10px ;
+
+}
+

@@ -1,0 +1,23 @@
+.menu{
+    top: 171px;
+left: 161px;
+width: 149px;
+height: 220px;
+    background-color: tomato;
+    margin: 10px;
+}
+
+.itens{
+    display: flex;
+    flex-direction: column;
+}
+.itens span{
+    padding : 5px;
+}
+
+.icon{
+    
+    
+    background-color:#fff;
+    border-radius: 100%;
+}

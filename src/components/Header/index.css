@@ -1,0 +1,28 @@
+.HeaderComponent {
+    flex: 1;
+    background-color: #222;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    top: 0px;
+    left: 71px;
+    width: 1329px;
+    height: 90px;
+}
+
+.HeaderComponent span {
+    padding: 5px;
+    margin: 10px;
+    font-size: 20px;
+}
+
+.HeaderComponent button {
+    background: #117EFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.HeaderComponent input,
+button {
+    color: black;
+    padding: 5px;
+}
